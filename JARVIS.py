@@ -112,9 +112,9 @@ if __name__ == "__main__":
 
         elif 'open github' in query:
             speak("Okay sir")
-            spotifypath = 'C:/Users/Lenovo/AppData/Local/GitHubDesktop/GitHubDesktop.exe'
+            githubpath = 'C:/Users/Lenovo/AppData/Local/GitHubDesktop/GitHubDesktop.exe'
             # search = takeCommand().lower()
-            # wb.get(spotifypath).open_new_tab(search)
+            # wb.get(githubpathpath).open_new_tab(search)
 
         elif 'play some music' in query:
             songs_dir = 'D:\\Download'
